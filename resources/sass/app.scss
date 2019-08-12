@@ -1,0 +1,34 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@font-face{
+  font-family: Nexa;
+  src: url('/fonts/Nexa-Regular.otf');
+}
+@font-face{
+  font-family: Nexa-Light;
+  src: url('/fonts/Nexa-Light.otf');
+}
+@font-face{
+  font-family: Nexa-Bold;
+  src: url('/fonts/Nexa-Bold.otf');
+}
+@font-face{
+  font-family: Nexa-Black;
+  src: url('/fonts/Nexa-Black.otf');
+}
+@font-face{
+  font-family: Nexa-Heavy;
+  src: url('/fonts/Nexa-Heavy.otf');
+}
+// Variables
+@import 'variables';
+@import 'custom';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}

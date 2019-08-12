@@ -1,0 +1,302 @@
+
+/*
+*
+*NAVBAR
+*
+*
+*/
+.navbar {
+    min-height: 96px !important;
+    padding-bottom: 0px !important;
+    box-shadow: 0px 1px 20px -3px;
+  }
+  
+.my-nav {background-color: white !important}
+.Group-18 {
+    width: 151.6px;
+    height: 31px;
+    object-fit: contain;
+  }
+.nav-item {
+     
+}
+.nav-link {
+    width: auto;
+    height: 88px; 
+    font-family: Nexa, sans-serif !important;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.4px;
+    color: #0e122b !important;
+    text-align: center;
+    padding-top: 40px !important;
+}
+.nav-link:hover{
+    border-bottom: 3px solid #f68100;
+    color: #f68100 !important;
+}
+.active{
+    border-bottom: 3px solid #f68100;
+    color: #f68100 !important;  
+}
+/*
+*
+*FOOTER
+*
+*
+*/
+.foot{
+    background-color: #0e122b;
+    color: white;
+}
+.foot-headers{
+    font-family: Nexa-Bold;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    color: white;
+}
+.foot-p {
+    font-family: Nexa-Light;
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.92;
+    letter-spacing: 0.2px;
+    color: white;
+    text-decoration: none;
+}
+.foot-p a:link {
+    text-decoration: none;
+  }
+  
+  .foot-p a:visited {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .foot-p a:hover {
+    text-decoration: none;
+    color: #f68100;
+
+  }
+  
+  .foot-p a:active {
+    text-decoration: none;
+  }
+  .Values-Mission-Visio {
+    font-family: Nexa;
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.4;
+    letter-spacing: 0.2px;
+    color: white;
+  }
+
+/*
+*
+*HOME
+*
+*
+*/
+
+//Banner
+.banner{
+    height: 575px;
+    color: white;
+    background-image: url("/jpg/home-hero-digital-business.jpg");
+    object-fit: contain;
+}
+.banner-label p{
+    color: white;
+    font-family: Nexa-Light;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.67;
+    letter-spacing: -0.2px;
+    text-align: center;
+    margin-bottom: 85px;
+}
+.banner-label h2{
+    color: #fde3c7;
+    font-family: Nexa;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.8px;
+    text-align: center;
+}
+
+//Whats Possible
+.growth-icon-2 {
+    width: 164px;
+    height: 195px;
+    object-fit: contain;
+    margin-right: -100%;
+  }
+.high-five-icon-2 {
+    width: 175px;
+    height: 193px;
+    object-fit: contain;
+}
+.Whats-Possible {
+    font-family: Nexa-Light;
+    font-size: 51.4px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.3px;
+    color: #0e122b;
+  }
+.Grow-with-tailored-t {
+    font-family: Nexa;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #0e122b;
+}
+.Whether-you-have-an {
+    font-family: Nexa           ;
+    font-size: 17.1px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.63;
+    letter-spacing: 0.5px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.Learn-More {
+    font-family: Nexa-Bold;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: 0.3px;
+    color: #f68100;
+}
+
+
+//Banner 2
+.banner2{
+    height: 431px;
+    color: white;
+    background-image: url("/jpg/start-here-bg.jpg");
+    object-fit: contain;
+}
+.banner2-label{
+  font-family: Nexa;
+  font-size: 25.7px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: white;
+}
+.Know-the-right-thing {
+    font-family: Nexa-Bold;
+    font-size: 25.7px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+}
+.Sometimes-you-want-t {
+    font-family: Nexa;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: white;
+}
+.rectangle{
+    width: 415px;
+    height: 80px;
+    border: 2px solid white;
+    color: #f68100;
+}
+.rectangle:hover{
+    border: 2px solid #f68100;
+    color: #f68100;
+}
+.Get-Quote {
+    font-family: Nexa-Black;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 3.6px;
+    text-align: center;
+  }
+  //Form
+.form-control{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    opacity: 0.6;
+    font-family: Nexa-Light;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    color: #1a1f4d;
+}
+.form-control:focus{
+    color: #f68100 !important;
+    border-bottom: #f68100 !important;
+}
+.text-control{
+    opacity: 0.6;
+    font-family: Nexa-Light;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.3px;
+    color: #1a1f4d;
+    padding: 20px;
+}
+.sub {
+    width: 259px;
+    height: 64px;
+    background-color: #f68100;
+    font-family: Nexa-Heavy;
+    font-size: 14px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.3px;
+    text-align: center;
+    color: white;
+    border: none;
+  }
